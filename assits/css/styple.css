@@ -155,7 +155,7 @@ html{
     width: 100%;
     padding-top: 45%;
     position: relative;
-    background: url(/assits/img/background/quockhanh.jpg) top center/cover no-repeat;
+    background: url(../img/background/quockhanh.jpg) top center/cover no-repeat;
 }
 
 #slider .slider-text{
@@ -338,7 +338,7 @@ html{
 #footer{
     padding: 16px 64px 0 64px;
     max-width: 100%;   
-    background: url(/assits/img/footer/Chưa\ có\ tên.png) top center/cover no-repeat;
+    background: url(../img/footer/Chưa\ có\ tên.png) top center/cover no-repeat;
 }
 
 #footer p{
